@@ -8,13 +8,11 @@
 <!--- Label --->
 <!--- ELabel ---> 
 <!--- Name:PCRD03A: --->
-# PCRD03A
-<!--- LongName --->
-## PCRD03A module
-<!--- ELongName ---> 
+# PCRD03A - multi-diode silicon cosmic radiation detector
 
 <!--- Lead --->
-PCRD03A module
+The module contains multiple serio-parallel connected PIN diodes like BPW34.
+The core idea is that the noise from diode is not summed, but the design indicates poor sensitivity with use of BPW34 diodes. With using of HAMAMATSU PIN diodes the device was flight on high-altitude balloon. 
 <!--- ELead ---> 
 
 ![PCRD03A](doc/img/PCRD03A_QRcode.png) 
