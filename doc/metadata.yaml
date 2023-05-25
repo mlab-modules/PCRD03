@@ -1,10 +1,14 @@
 description: 'Silicon PIN diode cosmic radiation detector '
 github_branch: PCRD03A
+github_branches:
+- PCRD03A
 github_repo: PCRD03
 github_url: https://github.com/mlab-modules/PCRD03
 homepage: false
+image: doc/img/PCRD03A_QRcode.png
 images:
 - doc/img/PCRD03A_QRcode.png
+issues: 0
 mark: 50
 tags: []
 title: PCRD03
