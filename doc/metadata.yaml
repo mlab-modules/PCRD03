@@ -5,6 +5,7 @@ github_branches:
 github_repo: PCRD03
 github_url: https://github.com/mlab-modules/PCRD03
 homepage: false
+image: doc/img/PCRD03A_QRcode.png
 image_title: doc/img/PCRD03A_QRcode.png
 images:
 - doc/img/PCRD03A_QRcode.png
