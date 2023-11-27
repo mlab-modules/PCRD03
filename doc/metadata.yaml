@@ -10,11 +10,26 @@ image: doc/img/PCRD03A_QRcode.png
 image_title: doc/img/PCRD03A_QRcode.png
 images:
 - doc/img/PCRD03A_QRcode.png
+- doc/gen/img/PCRD03-bottom.png
+- doc/gen/img/PCRD03-top.png
+- hw/cam_profi/assembly/PCRD03-assembly_page_01.svg
+- hw/cam_profi/assembly/PCRD03-assembly_page_02.svg
+- doc/gen/PCRD03-charge_amp2.svg
+- doc/gen/PCRD03-charge_amp4.svg
+- doc/gen/PCRD03-charge_amp5.svg
+- doc/gen/PCRD03-schematic.svg
+- doc/gen/PCRD03-charge_amp6.svg
+- doc/gen/PCRD03-charge_amp3.svg
+- doc/gen/PCRD03-charge_amp1.svg
+- doc/gen/img/PCRD03-top.svg
+- doc/gen/img/PCRD03-bottom.svg
 issues: 0
 mark: 50
+mod_ibom: hw/cam_profi/PCRD03-ibom.html
+mod_scheme: doc/gen/PCRD03-schematic.pdf
 status: 3
 tags:
 - mlab
 - mlab-module
 title: PCRD03
-updated: '2023-11-27T17:44:18.469180+00:00'
+updated: '2023-11-27T17:46:45.364946+00:00'
