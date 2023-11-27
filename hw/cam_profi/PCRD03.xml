@@ -1,0 +1,2413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/PCRD03.kicad_sch</source>
+    <date>Mon Nov 27 17:45:46 2023</date>
+    <tool>Eeschema 7.0.9-7.0.9~ubuntu23.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCRD03.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/">
+      <title_block>
+        <title>PCRD03A</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>charge_amp.kicad_sch</source>
+        <comment number="1" value=" Silicon PIN diode cosmic radiation detector "/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>Mlab_Batery:CH28-2032</footprint>
+      <libsource lib="PCRD03A-rescue" part="Battery_Cell" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bde47</tstamps>
+    </comp>
+    <comp ref="BT2">
+      <value>Battery_Cell</value>
+      <footprint>Mlab_Batery:CH28-2032</footprint>
+      <libsource lib="PCRD03A-rescue" part="Battery_Cell" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bdd7b</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bcc3c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>47u/16V</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="PCRD03A-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05cd27</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>47u/16V</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="PCRD03A-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05cd56</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05cd82</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47u/16V</value>
+      <footprint>Capacitors_SMD:C_1210</footprint>
+      <libsource lib="PCRD03A-rescue" part="CP" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a13ee1f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bbf24</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a129067</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a062595</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f2fc</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>2n2</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a061d5f</tstamps>
+    </comp>
+    <comp ref="C47">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a13276c</tstamps>
+    </comp>
+    <comp ref="C48">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1331ee</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>STPS1L30U</value>
+      <footprint>Diodes_SMD:D_SMB</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Schottky" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bc5d0</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LM4041CIM3-1.2</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="LM4041" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a12f14f</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
+      <libsource lib="PCRD03A-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0b6024</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4148</value>
+      <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
+      <libsource lib="PCRD03A-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f132</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>Mlab_D:Diode-MiniMELF_Standard</footprint>
+      <libsource lib="PCRD03A-rescue" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f584</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>POWER</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="PCRD03A-rescue" part="HEADER_2x03_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05cf9a</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>OUT</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x06</footprint>
+      <libsource lib="PCRD03A-rescue" part="HEADER_2x06_PARALLEL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a19a96b</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10u</value>
+      <footprint>Mlab_L:DJNR5040</footprint>
+      <libsource lib="PCRD03A-rescue" part="L" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bc312</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="PCRD03A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0e262a</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="PCRD03A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0e273f</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="PCRD03A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0e281c</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="PCRD03A-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0e28fa</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100/10</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05ccc6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>470k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bc719</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05d3fb</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>120k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bc925</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a05f62d</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0b7205</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>22k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a061d18</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0b6222</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS6104</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="TPS6104" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0bb51a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>ISL21080DIH309Z-TK</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="APE8865NR-12-HF-3" description=""/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a128c3b</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <datasheet>https://www.ti.com/lit/ds/symlink/opa314.pdf</datasheet>
+      <fields>
+        <field name="UST_ID">5c70984412875079b91f879a</field>
+      </fields>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="UST_ID" value="5c70984412875079b91f879a"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a135186</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>OPA2314</value>
+      <footprint>Mlab_IO:SOIC-8_3.9x4.9mm_Pitch1.27mm</footprint>
+      <libsource lib="PCRD03A-rescue" part="OP275" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a09367c 00000000-0000-0000-0000-00005a05dc7e</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TS5A4594</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="TS5A4594" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="PCRD03.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005a060c64</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C53">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp1"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp1/" tstamps="/00000000-0000-0000-0000-00005a0e154c/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C50">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp2"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp2/" tstamps="/00000000-0000-0000-0000-00005a0e0c13/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C49">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp3"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp3/" tstamps="/00000000-0000-0000-0000-00005a0de5d9/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C52">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp4"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp4/" tstamps="/00000000-0000-0000-0000-00005a0e11e6/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C51">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp5"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp5/" tstamps="/00000000-0000-0000-0000-00005a0e11dd/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df173</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df15d</tstamps>
+    </comp>
+    <comp ref="C43">
+      <value>1n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df19c</tstamps>
+    </comp>
+    <comp ref="C44">
+      <value>1u</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df18e</tstamps>
+    </comp>
+    <comp ref="C45">
+      <value>1p</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df16b</tstamps>
+    </comp>
+    <comp ref="C46">
+      <value>4u7</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1df</tstamps>
+    </comp>
+    <comp ref="C54">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="C" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a136744</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df180</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6b1</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df8f2</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df952</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df9b1</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>D_Photo</value>
+      <footprint>lib:PIND_universal</footprint>
+      <libsource lib="PCRD03A-rescue" part="D_Photo" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df6f9</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>BF862</value>
+      <footprint>Mlab_IO:SOT-23</footprint>
+      <libsource lib="PCRD03A-rescue" part="Q_NMOS_DGS" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1a4</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>1k</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df14e</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df187</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>4k7</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ed</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df155</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>10M</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df164</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>3k3</value>
+      <footprint>Resistors_SMD:R_0805</footprint>
+      <libsource lib="PCRD03A-rescue" part="R" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a0df1ab</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>OPA314</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5</footprint>
+      <libsource lib="PCRD03A-rescue" part="MCP6001" description=""/>
+      <property name="Sheetname" value="charge_amp6"/>
+      <property name="Sheetfile" value="charge_amp.kicad_sch"/>
+      <sheetpath names="/charge_amp6/" tstamps="/00000000-0000-0000-0000-00005a12abb0/"/>
+      <tstamps>00000000-0000-0000-0000-00005a1358e4</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="PCRD03A-rescue" part="APE8865NR-12-HF-3">
+      <footprints>
+        <fp>SOT*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">APE8865NR-12-HF-3</field>
+        <field name="Footprint">SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="input"/>
+        <pin num="2" name="VOUT" type="power_out"/>
+        <pin num="3" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="Battery_Cell">
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="C">
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="CP">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>C_Axial*</fp>
+        <fp>C_Radial*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="D">
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="D_Photo">
+      <footprints>
+        <fp>*photodiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Photo</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="D_Schottky">
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-*</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="HEADER_2x03_PARALLEL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="HEADER_2x06_PARALLEL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x06_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="L">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="LM4041">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LM4041</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="MCP6001">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP6001</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="V-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="V+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="OP275">
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>SOIC*</fp>
+        <fp>SOP*</fp>
+        <fp>LFCSP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OP275</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="Q_NMOS_DGS">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_DGS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="TPS6104">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS6104</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SW" type="bidirectional"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FB" type="bidirectional"/>
+        <pin num="4" name="EN" type="bidirectional"/>
+        <pin num="5" name="VIN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="PCRD03A-rescue" part="TS5A4594">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TS5A4594</field>
+      </fields>
+      <pins>
+        <pin num="1" name="COM" type="passive"/>
+        <pin num="2" name="NO" type="passive"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="IN" type="bidirectional"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C47" pin="1" pintype="passive"/>
+      <node ref="C48" pin="1" pintype="passive"/>
+      <node ref="C49" pin="1" pintype="passive"/>
+      <node ref="C50" pin="1" pintype="passive"/>
+      <node ref="C51" pin="1" pintype="passive"/>
+      <node ref="C52" pin="1" pintype="passive"/>
+      <node ref="C53" pin="1" pintype="passive"/>
+      <node ref="C54" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U11" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U8" pin="5" pinfunction="V+" pintype="input"/>
+      <node ref="U9" pin="5" pinfunction="V+" pintype="input"/>
+    </net>
+    <net code="2" name="+BATT">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="3" name="/BIAS">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="/ENABLE">
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="EN" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/MEASURE">
+      <node ref="J2" pin="7" pintype="input"/>
+      <node ref="J2" pin="8" pintype="input"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="6" name="/OUT_AMP">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J2" pin="10" pintype="input"/>
+      <node ref="J2" pin="9" pintype="input"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="7" name="/RESET">
+      <node ref="J2" pin="11" pintype="input"/>
+      <node ref="J2" pin="12" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="IN" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/VREF">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U11" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="9" name="/charge_amp1/OUT">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="BT2" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C44" pin="1" pintype="passive"/>
+      <node ref="C47" pin="2" pintype="passive"/>
+      <node ref="C48" pin="2" pintype="passive"/>
+      <node ref="C49" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C50" pin="2" pintype="passive"/>
+      <node ref="C51" pin="2" pintype="passive"/>
+      <node ref="C52" pin="2" pintype="passive"/>
+      <node ref="C53" pin="2" pintype="passive"/>
+      <node ref="C54" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U10" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U11" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="COM" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U7" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U8" pin="2" pinfunction="V-" pintype="input"/>
+      <node ref="U9" pin="2" pinfunction="V-" pintype="input"/>
+    </net>
+    <net code="11" name="Net-(BT1--)">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="BT2" pin="1" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U6" pin="1" pintype="output"/>
+    </net>
+    <net code="13" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U7" pin="1" pintype="output"/>
+    </net>
+    <net code="16" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C20-Pad2)">
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="U8" pin="1" pintype="output"/>
+    </net>
+    <net code="19" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(C30-Pad1)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U9" pin="1" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(C32-Pad2)">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(C36-Pad1)">
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pintype="output"/>
+    </net>
+    <net code="25" name="Net-(C36-Pad2)">
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(C38-Pad2)">
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C45" pin="1" pintype="passive"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="U11" pin="1" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(C42-Pad2)">
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(C44-Pad2)">
+      <node ref="C44" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="SW" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D3-K)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D4-K)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="NO" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(D10-A)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D10-K)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D12-A)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D12-K)">
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D18-A)">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D18-K)">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D24-A)">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D24-K)">
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D30-A)">
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D30-K)">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D36-A)">
+      <node ref="C43" pin="1" pintype="passive"/>
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D36-K)">
+      <node ref="C46" pin="1" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(Q1-G)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="48" name="Net-(Q1-S)">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(Q2-G)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="50" name="Net-(Q2-S)">
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(Q3-G)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U8" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="52" name="Net-(Q3-S)">
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(Q4-G)">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U9" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="54" name="Net-(Q4-S)">
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(Q5-G)">
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="U10" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="56" name="Net-(Q5-S)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(Q6-G)">
+      <node ref="C43" pin="2" pintype="passive"/>
+      <node ref="C45" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="58" name="Net-(Q6-S)">
+      <node ref="C46" pin="2" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+    </net>
+    <net code="60" name="Net-(U1-FB)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="FB" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="Net-(U4B-+)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="62" name="unconnected-(D2-Pad3)">
+      <node ref="D2" pin="3" pintype="unspecified+no_connect"/>
+    </net>
+    <net code="63" name="unconnected-(U4B-V+-Pad8)">
+      <node ref="U4" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="64" name="unconnected-(U4B-V--Pad4)">
+      <node ref="U4" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+  </nets>
+</export>
