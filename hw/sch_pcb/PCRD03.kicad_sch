@@ -2135,7 +2135,7 @@
     (pin "1" (uuid 8587a2d4-87ef-4a45-a094-2ebfb7c4031e))
     (pin "2" (uuid 35ed73cf-201d-4c77-ad6c-3429768b5b87))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R1") (unit 1)
         )
@@ -2161,7 +2161,7 @@
     (pin "2" (uuid 59712fab-4d65-4618-9c36-cc613449e407))
     (pin "1" (uuid c7b154a7-8739-4bae-8604-cba81c25db40))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C2") (unit 1)
         )
@@ -2187,7 +2187,7 @@
     (pin "1" (uuid 3472ff90-cc6a-474d-b8c9-58f034042a1c))
     (pin "2" (uuid 43aceff8-b3d0-4eb7-bfbd-5a9c8c86f0d4))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C3") (unit 1)
         )
@@ -2213,7 +2213,7 @@
     (pin "2" (uuid a1b2f6ca-ed2f-436a-bfbe-8e10f7a5ff72))
     (pin "1" (uuid 4027526d-edf5-4748-bbf2-25950a3c80f3))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C4") (unit 1)
         )
@@ -2238,7 +2238,7 @@
     )
     (pin "1" (uuid f134b9f3-c31a-48b1-ac4c-46fbc567924d))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR01") (unit 1)
         )
@@ -2263,7 +2263,7 @@
     )
     (pin "1" (uuid 1bbade4a-9c70-4d95-a390-9080c744bdb1))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR02") (unit 1)
         )
@@ -2293,7 +2293,7 @@
     (pin "5" (uuid c3f5e1dd-fd63-4bbf-9354-8bee1cc571b4))
     (pin "6" (uuid aca00812-a2fd-4911-ab43-72c8b2dbe0b7))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "J1") (unit 1)
         )
@@ -2318,7 +2318,7 @@
     )
     (pin "1" (uuid bf0e3a6a-3cc8-4c77-a754-7108c1e19f7d))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR03") (unit 1)
         )
@@ -2344,7 +2344,7 @@
     (pin "2" (uuid 928f47a9-f960-4669-a2c8-f17e360cdd1e))
     (pin "1" (uuid 75e8fb66-41d8-4eec-acc5-b9999ba88c1d))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R3") (unit 1)
         )
@@ -2369,7 +2369,7 @@
     )
     (pin "1" (uuid 2a0a794e-b1ec-46d2-92e4-1ec8b0e24f35))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR04") (unit 1)
         )
@@ -2394,7 +2394,7 @@
     )
     (pin "1" (uuid 4f998d96-98c5-402b-b500-d62675713fc6))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR05") (unit 1)
         )
@@ -2419,7 +2419,7 @@
     )
     (pin "1" (uuid f2083375-9948-4fc4-a4f9-c0afc97e8588))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#FLG06") (unit 1)
         )
@@ -2451,7 +2451,7 @@
     (pin "6" (uuid 0fe577c0-694a-4517-9912-c298d386ad6d))
     (pin "7" (uuid 87e267f2-ebfc-4d21-8228-a82855bb5090))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U4") (unit 1)
         )
@@ -2476,7 +2476,7 @@
     )
     (pin "1" (uuid c1f1cc88-6605-4c47-acb5-16ed7698eb52))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR07") (unit 1)
         )
@@ -2501,7 +2501,7 @@
     )
     (pin "1" (uuid 91e7482b-d13a-470e-b2b3-320181d40bb6))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR08") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     (pin "2" (uuid 56236585-a958-4251-a85b-fc0680b874da))
     (pin "1" (uuid 3a2d4e7f-9d9f-4ff3-8d97-37411a91df75))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "D4") (unit 1)
         )
@@ -2553,7 +2553,7 @@
     (pin "1" (uuid 2b6a8c8b-a7cb-47b4-8a85-3cc89c098b6e))
     (pin "2" (uuid 08903fad-55fa-400c-90e5-24e24f9db84c))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C9") (unit 1)
         )
@@ -2578,7 +2578,7 @@
     )
     (pin "1" (uuid cb7bb685-2e47-4dde-830c-550cbfad07ba))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR09") (unit 1)
         )
@@ -2604,7 +2604,7 @@
     (pin "1" (uuid ba7e5a19-86f8-4175-acbc-2e65b18d434a))
     (pin "2" (uuid b5107017-e1c1-4474-9525-8565ee59cc0d))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "D5") (unit 1)
         )
@@ -2630,7 +2630,7 @@
     (pin "1" (uuid f310422e-5fa1-4bd2-9981-2086843d4e36))
     (pin "2" (uuid 216c0140-ffdb-450b-942b-c92f77f50096))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R5") (unit 1)
         )
@@ -2655,7 +2655,7 @@
     )
     (pin "1" (uuid 7850e75e-eed3-4ead-ad77-22525de42e88))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR010") (unit 1)
         )
@@ -2684,7 +2684,7 @@
     (pin "4" (uuid 1d9bb1e0-8e93-4fbd-a45a-0d20b5ad14b7))
     (pin "5" (uuid 92bdd58a-7bee-429e-bfc9-524c63717c28))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U5") (unit 1)
         )
@@ -2709,7 +2709,7 @@
     )
     (pin "1" (uuid b3296363-11c3-4863-b2f1-0930735639b4))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR011") (unit 1)
         )
@@ -2734,7 +2734,7 @@
     )
     (pin "1" (uuid aff008a4-61a6-4050-9748-a731a5704442))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR012") (unit 1)
         )
@@ -2760,7 +2760,7 @@
     (pin "1" (uuid d193aa57-6f0e-451b-935b-e6d3432f38e3))
     (pin "2" (uuid cdc2d7b4-d0d5-4321-84ab-660c980699bf))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R7") (unit 1)
         )
@@ -2786,7 +2786,7 @@
     (pin "1" (uuid 6a8cc935-8a23-4dea-9568-86ca1e078ee8))
     (pin "2" (uuid c8e8fd43-7f1e-460e-95cf-a31df6f98029))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C10") (unit 1)
         )
@@ -2812,7 +2812,7 @@
     (pin "1" (uuid b77ca690-b339-4034-9a5d-77cba88a5ab5))
     (pin "2" (uuid 0ccdb232-c014-408a-a5f7-3529f3547390))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C8") (unit 1)
         )
@@ -2837,7 +2837,7 @@
     )
     (pin "1" (uuid bf9a6f6c-6cdc-46d0-801b-87a5cc446024))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR013") (unit 1)
         )
@@ -2869,7 +2869,7 @@
     (pin "6" (uuid 12a034e7-31de-43de-b6c6-c1a7964acce8))
     (pin "7" (uuid 6767ee37-7d49-4783-bdd1-382d20621be6))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U4") (unit 2)
         )
@@ -2894,7 +2894,7 @@
     )
     (pin "1" (uuid e2e9debf-de14-4343-93fb-b2a9ff69aa07))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#FLG014") (unit 1)
         )
@@ -2919,7 +2919,7 @@
     )
     (pin "1" (uuid 1bf3db4b-1758-48c3-b533-7e5f7035cdea))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR015") (unit 1)
         )
@@ -2944,7 +2944,7 @@
     )
     (pin "1" (uuid fdb86bc7-791d-46ed-9b98-5ba32fe31a33))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#FLG016") (unit 1)
         )
@@ -2970,7 +2970,7 @@
     (pin "1" (uuid 05ddca05-f07a-443b-8ae8-5e92a8f6860d))
     (pin "2" (uuid c2c9132f-8165-4533-80cc-ca4df4b618b9))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "D3") (unit 1)
         )
@@ -2996,7 +2996,7 @@
     (pin "1" (uuid a0430ed8-e7ea-40ad-9ac5-56c1722bf91a))
     (pin "2" (uuid 06831a3b-f232-43d5-ae29-229fe8674f4d))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R8") (unit 1)
         )
@@ -3022,7 +3022,7 @@
     (pin "1" (uuid 10ca96e3-0e8b-449b-9de8-1ef9d8906a76))
     (pin "2" (uuid 6e6728dd-4b24-4b3c-895c-c1dabe98f569))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R6") (unit 1)
         )
@@ -3051,7 +3051,7 @@
     (pin "4" (uuid 1a90071e-ee74-4514-a00b-dc5a22ee690a))
     (pin "5" (uuid c06fd772-dbf5-4120-b3af-c0a4957b286c))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U1") (unit 1)
         )
@@ -3076,7 +3076,7 @@
     )
     (pin "1" (uuid 471a7b56-6c65-45be-bb23-c98aa0e05e9f))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR017") (unit 1)
         )
@@ -3102,7 +3102,7 @@
     (pin "1" (uuid baded7f0-b312-461a-b60f-3836f1b65a09))
     (pin "2" (uuid 2d21418b-693c-4e8f-bc23-c364ea6157ca))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C6") (unit 1)
         )
@@ -3127,7 +3127,7 @@
     )
     (pin "1" (uuid 9cc1597c-62a9-4e16-b136-7e4a494bc567))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR018") (unit 1)
         )
@@ -3152,7 +3152,7 @@
     )
     (pin "1" (uuid b847acb0-a789-469f-bd45-91be07d1e2b6))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR019") (unit 1)
         )
@@ -3178,7 +3178,7 @@
     (pin "2" (uuid d4f88791-a5bd-449f-ba31-a7d2c1de6f1b))
     (pin "1" (uuid 8a9bdce3-2c34-4930-bd04-346881baf75c))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "L1") (unit 1)
         )
@@ -3204,7 +3204,7 @@
     (pin "2" (uuid 23fdc5ea-2c00-4bb8-828a-a8ecf61649bd))
     (pin "1" (uuid 771f5a43-4a80-46b8-b143-c2a90ad1ca38))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "D1") (unit 1)
         )
@@ -3230,7 +3230,7 @@
     (pin "1" (uuid 630f70c2-95d4-4b00-9344-9cdbb65a590f))
     (pin "2" (uuid 11c187de-e188-4cf8-938c-a12a2e0517bc))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R2") (unit 1)
         )
@@ -3256,7 +3256,7 @@
     (pin "1" (uuid c5102920-a6ab-4acd-b84b-a460e49b5318))
     (pin "2" (uuid ba09b81f-cd51-4966-995a-89599849dee1))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "R4") (unit 1)
         )
@@ -3281,7 +3281,7 @@
     )
     (pin "1" (uuid 7797d5ab-23de-46d0-8fb1-bdfe053fdb71))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR020") (unit 1)
         )
@@ -3307,7 +3307,7 @@
     (pin "1" (uuid c195b66b-bdb2-4f48-b854-4aaf66434afe))
     (pin "2" (uuid de02a81d-4d91-44ea-850f-e0d65214bbee))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C1") (unit 1)
         )
@@ -3332,7 +3332,7 @@
     )
     (pin "1" (uuid a492fc1d-0e68-45da-aefb-c88097bffe41))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR021") (unit 1)
         )
@@ -3358,7 +3358,7 @@
     (pin "2" (uuid f2f4d615-f4f0-4dde-9998-9030db105e4c))
     (pin "1" (uuid 218c6d49-e6e9-4276-aaca-74b311e09058))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "BT2") (unit 1)
         )
@@ -3384,7 +3384,7 @@
     (pin "1" (uuid 760e6a93-c944-47b0-a0cd-5850b2e75815))
     (pin "2" (uuid 2154dc7b-caca-4332-bc65-d7fee5d4c0c0))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "BT1") (unit 1)
         )
@@ -3409,7 +3409,7 @@
     )
     (pin "1" (uuid 33c1b35b-80db-48cd-ab47-944ada0ff057))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR022") (unit 1)
         )
@@ -3434,7 +3434,7 @@
     )
     (pin "1" (uuid 0f977787-3615-41e8-94d5-2a3e899ae390))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "M1") (unit 1)
         )
@@ -3459,7 +3459,7 @@
     )
     (pin "1" (uuid 03237921-ee57-466e-b24b-9b5d049a9043))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "M2") (unit 1)
         )
@@ -3484,7 +3484,7 @@
     )
     (pin "1" (uuid c433cbbf-43ac-4ba8-b6b3-a9a784257f85))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "M3") (unit 1)
         )
@@ -3509,7 +3509,7 @@
     )
     (pin "1" (uuid 08d104bb-2b22-454f-b966-07891ce79ec3))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "M4") (unit 1)
         )
@@ -3534,7 +3534,7 @@
     )
     (pin "1" (uuid 55cb32e2-8ae7-4639-b6f9-4ae6e27671bc))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR025") (unit 1)
         )
@@ -3559,7 +3559,7 @@
     )
     (pin "1" (uuid 52832ce5-6390-401e-977d-e610d195d732))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR023") (unit 1)
         )
@@ -3584,7 +3584,7 @@
     )
     (pin "1" (uuid 471101dc-5074-4381-9452-f92b0e144009))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR024") (unit 1)
         )
@@ -3614,7 +3614,7 @@
     (pin "1" (uuid 9be7e256-cba0-47d4-8b2d-4811d04b89b0))
     (pin "3" (uuid 2736f4df-8f75-48ef-820e-1339ce97a58a))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U2") (unit 1)
         )
@@ -3640,7 +3640,7 @@
     (pin "1" (uuid 1ce0da7a-f51c-4965-856d-a8c9f4f2f48e))
     (pin "2" (uuid b27a71a6-ccf9-4a38-9449-1577a08aded9))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C7") (unit 1)
         )
@@ -3665,7 +3665,7 @@
     )
     (pin "1" (uuid f45f60f4-416d-4132-9804-fcba2c3a9ecd))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR026") (unit 1)
         )
@@ -3690,7 +3690,7 @@
     )
     (pin "1" (uuid 1b61cdca-f161-4942-b7df-7a55c2a85961))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR027") (unit 1)
         )
@@ -3720,7 +3720,7 @@
     (pin "1" (uuid c2f6c75d-1b0a-4fe1-ba35-8faecf2d7971))
     (pin "3" (uuid 5e98a5a6-eacd-4778-8d5e-187709660886))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "D2") (unit 1)
         )
@@ -3746,7 +3746,7 @@
     (pin "1" (uuid a536169f-91e3-47bb-9985-f0fd10cc46e5))
     (pin "2" (uuid 25d49755-8d55-445c-b02b-5a22863c3d26))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C47") (unit 1)
         )
@@ -3771,7 +3771,7 @@
     )
     (pin "1" (uuid e2e00a60-b47b-41de-822a-92d08c270b27))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR028") (unit 1)
         )
@@ -3797,7 +3797,7 @@
     (pin "1" (uuid f6acbdd5-6532-4918-bc4a-46c32fb4a932))
     (pin "2" (uuid 58d6cf5d-a6b4-4919-b00f-e58530ea1835))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C48") (unit 1)
         )
@@ -3822,7 +3822,7 @@
     )
     (pin "1" (uuid de6b281c-332b-4584-a044-66f386e5317c))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "#PWR029") (unit 1)
         )
@@ -3854,7 +3854,7 @@
     (pin "4" (uuid 1d2b0c57-e0cb-4dbf-9178-8c5a9aedffe3))
     (pin "5" (uuid 117d8778-7cd5-4c9f-9a18-06b65693c559))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "U3") (unit 1)
         )
@@ -3880,7 +3880,7 @@
     (pin "1" (uuid 4f39f23e-8b09-4345-a501-531aefdde3a1))
     (pin "2" (uuid 47a8631d-11bb-45d2-bfc8-f5c7c53586c6))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "C5") (unit 1)
         )
@@ -3916,7 +3916,7 @@
     (pin "8" (uuid 7d0d0e51-7001-482e-8ce1-cd4d4443ab19))
     (pin "9" (uuid 15975ad9-d721-4ead-9437-375d28336501))
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70"
           (reference "J2") (unit 1)
         )
@@ -3947,7 +3947,7 @@
       (uuid 5c4e5233-bd75-4b98-935a-d47d11d4f9a6)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "4"))
       )
     )
@@ -3976,7 +3976,7 @@
       (uuid dcdfb3fa-a9a0-433e-9d2b-3d9f12c0462e)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "3"))
       )
     )
@@ -4005,7 +4005,7 @@
       (uuid bc47d8ad-f961-4d1f-b7a2-cb2218a5ea17)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "6"))
       )
     )
@@ -4034,7 +4034,7 @@
       (uuid 9ba068b7-3d5f-4090-acff-2350811eb907)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "5"))
       )
     )
@@ -4063,7 +4063,7 @@
       (uuid 4f921253-b372-4454-b3b4-581786a4276f)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "2"))
       )
     )
@@ -4092,7 +4092,7 @@
       (uuid 5e4b650b-576d-4d4d-9921-3ac4810a21bd)
     )
     (instances
-      (project "PCRD03A"
+      (project "PCRD03"
         (path "/723e5bd5-7c66-482e-8e4b-18b6291d6b70" (page "7"))
       )
     )
