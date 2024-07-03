@@ -6,27 +6,28 @@ github_description: 'Silicon PIN diode cosmic radiation detector '
 github_repo: PCRD03
 github_url: https://github.com/mlab-modules/PCRD03
 homepage: false
-replaced: PCRD07
+image: doc/gen/img/PCRD03-bottom.png
 image_title: doc/gen/img/PCRD03-top.png
 images:
-- doc/img/PCRD03A_QRcode.png
 - doc/gen/img/PCRD03-bottom.png
 - doc/gen/img/PCRD03-top.png
-- hw/cam_profi/assembly/PCRD03-assembly_page_01.svg
-- hw/cam_profi/assembly/PCRD03-assembly_page_02.svg
-- doc/gen/PCRD03-charge_amp2.svg
-- doc/gen/PCRD03-charge_amp4.svg
+- doc/img/PCRD03A_QRcode.png
 - doc/gen/PCRD03-charge_amp5.svg
-- doc/gen/PCRD03-schematic.svg
+- doc/gen/PCRD03-charge_amp4.svg
 - doc/gen/PCRD03-charge_amp6.svg
-- doc/gen/PCRD03-charge_amp3.svg
 - doc/gen/PCRD03-charge_amp1.svg
+- doc/gen/PCRD03-charge_amp2.svg
+- doc/gen/PCRD03-charge_amp3.svg
+- doc/gen/PCRD03-schematic.svg
 - doc/gen/img/PCRD03-top.svg
 - doc/gen/img/PCRD03-bottom.svg
+- hw/cam_profi/assembly/PCRD03-assembly_page_01.svg
+- hw/cam_profi/assembly/PCRD03-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/PCRD03-ibom.html
 mod_scheme: doc/gen/PCRD03-schematic.pdf
+replaced: PCRD07
 status: 3
 tags:
 - mlab
